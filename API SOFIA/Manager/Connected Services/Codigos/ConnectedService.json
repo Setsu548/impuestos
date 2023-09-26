@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://pilotosiatservicios.impuestos.gob.bo/v2/FacturacionCodigos?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, Codigos"
+    ],
+    "targetFramework": "net5.0",
+    "typeReuseMode": "None"
+  }
+}

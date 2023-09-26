@@ -1,0 +1,182 @@
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\appsettings.Development.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\appsettings.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.exe
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.deps.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.runtimeconfig.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.runtimeconfig.dev.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ref\API SOFIA.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.pdb
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.AssemblyReference.cache
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.AssemblyInfoInputs.cache
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.AssemblyInfo.cs
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.CoreCompileInputs.cache
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\scopedcss\bundle\API SOFIA.styles.css
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\staticwebassets\API SOFIA.StaticWebAssets.Manifest.cache
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.RazorTargetAssemblyInfo.cache
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.CopyComplete
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\ref\API SOFIA.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.pdb
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.genruntimeconfig.cache
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.ObjectPool.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ICSharpCode.SharpZipLib.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.Private.ServiceModel.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Http.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Security.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\cs\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\de\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\es\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\fr\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\it\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ja\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ko\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\pl\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\pt-BR\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ru\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\tr\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Manager.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Poco.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Utils.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Manager.pdb
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Poco.pdb
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Utils.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\appsettings.Development.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\appsettings.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.exe
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.deps.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.runtimeconfig.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.runtimeconfig.dev.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\ref\API SOFIA.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\System.Private.ServiceModel.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Http.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Security.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Manager.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Poco.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Utils.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Manager.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Poco.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\Utils.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.AssemblyReference.cache
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.AssemblyInfoInputs.cache
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.AssemblyInfo.cs
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.CoreCompileInputs.cache
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\scopedcss\bundle\API SOFIA.styles.css
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\staticwebassets\API SOFIA.StaticWebAssets.Manifest.cache
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.RazorTargetAssemblyInfo.cache
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.CopyComplete
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\ref\API SOFIA.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.genruntimeconfig.cache
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\bin\Release\net5.0\libman.json
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\appsettings.Development.json
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\appsettings.json
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\libman.json
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.exe
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.deps.json
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.runtimeconfig.json
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.runtimeconfig.dev.json
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ref\API SOFIA.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\API SOFIA.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.Private.ServiceModel.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Http.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\System.ServiceModel.Security.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Manager.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Poco.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Utils.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Manager.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Poco.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\bin\Release\net5.0\Utils.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.AssemblyReference.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.AssemblyInfoInputs.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.AssemblyInfo.cs
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.CoreCompileInputs.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\scopedcss\bundle\API SOFIA.styles.css
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\staticwebassets\API SOFIA.StaticWebAssets.Manifest.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.RazorTargetAssemblyInfo.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.csproj.CopyComplete
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\ref\API SOFIA.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\API SOFIA.genruntimeconfig.cache

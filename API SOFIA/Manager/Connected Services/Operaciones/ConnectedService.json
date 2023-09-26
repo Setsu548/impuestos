@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://pilotosiatservicios.impuestos.gob.bo/v2/FacturacionOperaciones?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, Operaciones"
+    ],
+    "targetFramework": "net5.0",
+    "typeReuseMode": "None"
+  }
+}

@@ -1,0 +1,242 @@
+﻿++Solución "API SOFIA" ‎(4 de 4 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:API SOFIA.sln
+++API SOFIA
+i:{00000000-0000-0000-0000-000000000000}:API SOFIA
+++Connected Services 
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:>1024
+++Dependencias
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:>1023
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:>342
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:>343
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:>750
+++Properties
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\properties\
+++wwwroot
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\wwwroot\
+++Xsd
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\wwwroot\xsd\
+++facturaComputarizadaCompraVenta.xsd
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\wwwroot\xsd\facturacomputarizadacompraventa.xsd
+++facturaComputarizadaHospitalClinica.xsd
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\wwwroot\xsd\facturacomputarizadahospitalclinica.xsd
+++facturaComputarizadaSectorEducativo.xsd
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\wwwroot\xsd\facturacomputarizadasectoreducativo.xsd
+++notaComputarizadaCreditoDebito.xsd
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\wwwroot\xsd\notacomputarizadacreditodebito.xsd
+++xmldsig-core-schema.xsd
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\wwwroot\xsd\xmldsig-core-schema.xsd
+++Controllers
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\controllers\
+++CodigosController.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\controllers\codigoscontroller.cs
+++CompraVentaController.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\controllers\compraventacontroller.cs
+++CreditoDebitoController.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\controllers\creditodebitocontroller.cs
+++EducativaController.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\controllers\educativacontroller.cs
+++HospitalClinicasController.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\controllers\hospitalclinicascontroller.cs
+++OperacionesController.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\controllers\operacionescontroller.cs
+++SincronizacionController.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\controllers\sincronizacioncontroller.cs
+++appsettings.Development.json
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\appsettings.development.json
+++appsettings.json
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\appsettings.json
+++Program.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\program.cs
+++Startup.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\startup.cs
+++No se detectaron dependencias de servicio
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:>1025
+++Analizadores
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:analizadores
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:analizadores
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:analizadores
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:analizadores
+++Marcos de trabajo
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:marcos de trabajo
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:marcos de trabajo
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:marcos de trabajo
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:marcos de trabajo
+++Paquetes
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:paquetes
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:paquetes
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:paquetes
+++Proyectos
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:proyectos
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:proyectos
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:proyectos
+++PublishProfiles
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\properties\publishprofiles\
+++launchSettings.json
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\properties\launchsettings.json
+++facturaComputarizadaSectorEducativo.cs
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\wwwroot\xsd\facturacomputarizadasectoreducativo.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\facturacomputarizadasectoreducativo.cs
+++Microsoft.AspNetCore.Analyzers
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.AspNetCore.App
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\microsoft.netcore.app
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\microsoft.netcore.app
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\microsoft.netcore.app
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\microsoft.netcore.app
+++Swashbuckle.AspNetCore (5.6.3)
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:>1036
+++Manager
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\manager\manager.csproj
+i:{00000000-0000-0000-0000-000000000000}:Manager
+++FolderProfile.pubxml
+i:{0706b7c3-1d02-4839-abee-b9819311ddf8}:d:\work\api_sofia\api sofia\api sofia\properties\publishprofiles\folderprofile.pubxml
+++Connected Services
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\
+++Codigos
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\codigos\
+++CompraVenta
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\compraventa\
+++ConnectedService.json
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\compraventa\connectedservice.json
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\codigos\connectedservice.json
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\computarizada\connectedservice.json
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\creditodebito\connectedservice.json
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\operaciones\connectedservice.json
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\sincronizacion\connectedservice.json
+++Reference.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\compraventa\reference.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\codigos\reference.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\computarizada\reference.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\creditodebito\reference.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\operaciones\reference.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\sincronizacion\reference.cs
+++Computarizada
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\computarizada\
+++CreditoDebito
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\creditodebito\
+++Operaciones
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\operaciones\
+++Sincronizacion
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\connected services\sincronizacion\
+++Implementacion
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\implementacion\
+++Interface
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\interface\
+++Request
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\
+++CompDebitoCreditoRecepcionRequest.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\compdebitocreditorecepcionrequest.cs
+++CompEducativaRecepcionRequest.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\compeducativarecepcionrequest.cs
+++CompHospitalesRecepcionRequest.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\comphospitalesrecepcionrequest.cs
+++CompraVentaRecepcionMasivaRequest.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\compraventarecepcionmasivarequest.cs
+++CompraVentaRecepcionPaqueteRequest.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\compraventarecepcionpaqueterequest.cs
+++ComputarizadaRecepcionRequest.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\computarizadarecepcionrequest.cs
+++ComputarizadoRecepcionMasivaRequest.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\computarizadorecepcionmasivarequest.cs
+++ComputarizadoRecepcionPaqueteRequest.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\computarizadorecepcionpaqueterequest.cs
+++RespuestaUtils.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\request\respuestautils.cs
+++Class1.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\class1.cs
+++CodigosManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\implementacion\codigosmanager.cs
+++CompraVentaManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\implementacion\compraventamanager.cs
+++CreditoDebitoManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\implementacion\creditodebitomanager.cs
+++EducativoManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\implementacion\educativomanager.cs
+++HospitalesManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\implementacion\hospitalesmanager.cs
+++OperacionesManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\implementacion\operacionesmanager.cs
+++SincronizacionManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\implementacion\sincronizacionmanager.cs
+++ICodigosManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\interface\icodigosmanager.cs
+++ICompraVentaManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\interface\icompraventamanager.cs
+++ICreditoDebitoManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\interface\icreditodebitomanager.cs
+++IEducativoManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\interface\ieducativomanager.cs
+++IHospitalesManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\interface\ihospitalesmanager.cs
+++IOperacionesManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\interface\ioperacionesmanager.cs
+++ISincronizacionManager.cs
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\manager\interface\isincronizacionmanager.cs
+++System.ServiceModel.Duplex (4.8.1)
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:>1052
+++System.ServiceModel.NetTcp (4.8.1)
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:>1051
+++System.ServiceModel.Security (4.8.1)
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:>1050
+++Utils
+i:{4fec7b58-524a-410f-bc9a-d9b85a564d72}:d:\work\api_sofia\api sofia\utils\bin\debug\net5.0\utils.dll
+i:{00000000-0000-0000-0000-000000000000}:Utils
+++Poco
+i:{00000000-0000-0000-0000-000000000000}:Poco
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\poco\bin\debug\net5.0\poco.dll
+++CufRequest.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\cufrequest.cs
+++EnviarFacturaRequest.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\enviarfacturarequest.cs
+++facturaComputarizadaCompraVenta.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\facturacomputarizadacompraventa.cs
+++facturaComputarizadaHospitalClinica.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\facturacomputarizadahospitalclinica.cs
+++notaFiscalComputarizadaCreditoDebito.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\notafiscalcomputarizadacreditodebito.cs
+++Resultado.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\resultado.cs
+++SolicitudAnulacion.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\solicitudanulacion.cs
+++VerificacionEstado.cs
+i:{ce4e082a-abfc-4aa5-abb9-36469b52eb69}:d:\work\api_sofia\api sofia\poco\verificacionestado.cs
+++CompresionUtils.cs
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\compresionutils.cs
+++ComunUtils.cs
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\comunutils.cs
+++CryptoUtils.cs
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\cryptoutils.cs
+++CustomAuthenticationBehaviour.cs
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\customauthenticationbehaviour.cs
+++ExtentedStringWriter.cs
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\extentedstringwriter.cs
+++GeneradorFacturaUtils.cs
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\generadorfacturautils.cs
+++TokenConsumer.cs
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\tokenconsumer.cs
+++XmlUtils.cs
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:d:\work\api_sofia\api sofia\utils\xmlutils.cs
+++Microsoft.AspNetCore.Hosting.Abstractions (2.2.0)
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:>1062
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:>1061
+++SharpZipLib (1.3.3)
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:>1064
+++System.ServiceModel.Http (4.9.0)
+i:{3cb5c3f3-e56b-44e3-a1fc-e84459052ff7}:>1063

@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://pilotosiatservicios.impuestos.gob.bo/v2/FacturacionSincronizacion?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, Sincronizacion"
+    ],
+    "targetFramework": "net5.0",
+    "typeReuseMode": "None"
+  }
+}

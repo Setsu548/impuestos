@@ -1,0 +1,85 @@
+D:\Work\SOFIA_API\SOFIA_API\Manager\bin\Debug\net5.0\Manager.deps.json
+D:\Work\SOFIA_API\SOFIA_API\Manager\bin\Debug\net5.0\Manager.dll
+D:\Work\SOFIA_API\SOFIA_API\Manager\bin\Debug\net5.0\ref\Manager.dll
+D:\Work\SOFIA_API\SOFIA_API\Manager\bin\Debug\net5.0\Manager.pdb
+D:\Work\SOFIA_API\SOFIA_API\Manager\bin\Debug\net5.0\Poco.dll
+D:\Work\SOFIA_API\SOFIA_API\Manager\bin\Debug\net5.0\Utils.dll
+D:\Work\SOFIA_API\SOFIA_API\Manager\bin\Debug\net5.0\Utils.pdb
+D:\Work\SOFIA_API\SOFIA_API\Manager\bin\Debug\net5.0\Poco.pdb
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\Manager.csproj.AssemblyReference.cache
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\Manager.AssemblyInfoInputs.cache
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\Manager.AssemblyInfo.cs
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\Manager.csproj.CoreCompileInputs.cache
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\Manager.csproj.CopyComplete
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\Manager.dll
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\ref\Manager.dll
+D:\Work\SOFIA_API\SOFIA_API\Manager\obj\Debug\net5.0\Manager.pdb
+D:\Work\API_SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Manager.deps.json
+D:\Work\API_SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Manager.dll
+D:\Work\API_SOFIA\API SOFIA\Manager\bin\Debug\net5.0\ref\Manager.dll
+D:\Work\API_SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Manager.pdb
+D:\Work\API_SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Poco.dll
+D:\Work\API_SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Utils.dll
+D:\Work\API_SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Utils.pdb
+D:\Work\API_SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Poco.pdb
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.AssemblyReference.cache
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.AssemblyInfoInputs.cache
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.AssemblyInfo.cs
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.CoreCompileInputs.cache
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.CopyComplete
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.dll
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\ref\Manager.dll
+D:\Work\API_SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\bin\Debug\net5.0\Manager.deps.json
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\bin\Debug\net5.0\Manager.dll
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\bin\Debug\net5.0\Manager.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\bin\Debug\net5.0\Poco.dll
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\bin\Debug\net5.0\Utils.dll
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\bin\Debug\net5.0\Utils.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\bin\Debug\net5.0\Poco.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.AssemblyReference.cache
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\Manager.AssemblyInfoInputs.cache
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\Manager.AssemblyInfo.cs
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.CopyComplete
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\Manager.dll
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\ref\Manager.dll
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\Manager.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\Manager\obj\Debug\net5.0\refint\Manager.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Manager.deps.json
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Manager.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Manager.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Poco.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Utils.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Utils.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\bin\Debug\net5.0\Poco.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.AssemblyReference.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.AssemblyInfoInputs.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.AssemblyInfo.cs
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.CopyComplete
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\refint\Manager.dll
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\Manager.pdb
+C:\Users\wilfredo\Desktop\SOFIA\API SOFIA\Manager\obj\Debug\net5.0\ref\Manager.dll
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\bin\Debug\net5.0\Manager.deps.json
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\bin\Debug\net5.0\Manager.dll
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\bin\Debug\net5.0\Manager.pdb
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\bin\Debug\net5.0\Poco.dll
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\bin\Debug\net5.0\Utils.dll
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\bin\Debug\net5.0\Utils.pdb
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\bin\Debug\net5.0\Poco.pdb
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\Manager.AssemblyInfoInputs.cache
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\Manager.AssemblyInfo.cs
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\Manager.csproj.CopyComplete
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\Manager.dll
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\refint\Manager.dll
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\Manager.pdb
+C:\Users\wilfr\OneDrive\Escritorio\API SOFIA\Manager\obj\Debug\net5.0\ref\Manager.dll

@@ -1,0 +1,49 @@
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.exe
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\facturaComputarizadaCompraVenta.xsd
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\facturaComputarizadaHospitalClinica.xsd
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\facturaComputarizadaSectorEducativo.cs
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\facturaComputarizadaSectorEducativo.xsd
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\notaComputarizadaCreditoDebito.xsd
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\xmldsig-core-schema.xsd
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.deps.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.runtimeconfig.json
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.pdb
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.ObjectPool.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\ICSharpCode.SharpZipLib.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.Private.ServiceModel.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Duplex.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Http.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.NetTcp.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Primitives.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Security.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\cs\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\de\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\es\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\fr\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\it\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\ja\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\ko\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\pl\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\pt-BR\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\ru\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\tr\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Manager.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Poco.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Utils.dll
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Manager.pdb
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Poco.pdb
+D:\Work\API_SOFIA\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Utils.pdb

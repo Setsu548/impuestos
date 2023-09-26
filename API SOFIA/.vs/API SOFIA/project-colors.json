@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0706b7c3-1d02-4839-abee-b9819311ddf8": {
+      "ProjectGuid": "0706b7c3-1d02-4839-abee-b9819311ddf8",
+      "DisplayName": "API SOFIA",
+      "ColorIndex": 0
+    },
+    "4fec7b58-524a-410f-bc9a-d9b85a564d72": {
+      "ProjectGuid": "4fec7b58-524a-410f-bc9a-d9b85a564d72",
+      "DisplayName": "Manager",
+      "ColorIndex": 1
+    },
+    "ce4e082a-abfc-4aa5-abb9-36469b52eb69": {
+      "ProjectGuid": "ce4e082a-abfc-4aa5-abb9-36469b52eb69",
+      "DisplayName": "Poco",
+      "ColorIndex": 2
+    },
+    "3cb5c3f3-e56b-44e3-a1fc-e84459052ff7": {
+      "ProjectGuid": "3cb5c3f3-e56b-44e3-a1fc-e84459052ff7",
+      "DisplayName": "Utils",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

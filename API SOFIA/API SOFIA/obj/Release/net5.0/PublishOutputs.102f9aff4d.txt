@@ -1,0 +1,49 @@
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.exe
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\facturaComputarizadaCompraVenta.xsd
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\facturaComputarizadaHospitalClinica.xsd
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\facturaComputarizadaSectorEducativo.xsd
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\notaComputarizadaCreditoDebito.xsd
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\wwwroot\Xsd\xmldsig-core-schema.xsd
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\libman.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.deps.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.runtimeconfig.json
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\API SOFIA.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.ObjectPool.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\ICSharpCode.SharpZipLib.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.Private.ServiceModel.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Duplex.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Http.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.NetTcp.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Primitives.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\System.ServiceModel.Security.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\cs\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\de\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\es\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\fr\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\it\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\ja\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\ko\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\pl\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\ru\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\tr\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Manager.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Poco.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Utils.dll
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Manager.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Poco.pdb
+C:\Users\wilfredo\Desktop\API SOFIA\API SOFIA\obj\Release\net5.0\PubTmp\Out\Utils.pdb
